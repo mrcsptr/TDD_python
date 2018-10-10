@@ -15,4 +15,5 @@ def score_calc(name, age):
     elif name == 'Ely' and age == 28:
         return '75%'
     else:
-        return 'je connais pas cette personne'
+        return 'je ne connais pas cette personne'
+
